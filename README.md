@@ -1,4 +1,7 @@
-sbt-empty
+osgi-empty
+
+
 =========
 
-Starter files for a Scala SBT project
+
+Starter files for a Scala OSGi Karaf projects
